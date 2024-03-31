@@ -1,0 +1,5 @@
+agent:
+  name: 'zeus-agent'
+  collect:
+    time: '*/5 * * * *'
+    endpoint: '*'  # 采集时间和地址
